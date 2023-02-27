@@ -1,0 +1,5 @@
+Currencuy Exchange Service
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+Currencuy Conversion Service
+http://localhost:8010/currency-conversion/from/USD/to/INR/quantity/10
